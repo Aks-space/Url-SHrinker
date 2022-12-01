@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Senura:Mongodb8864@cluster0-0uinm.gcp.mongodb.net/urlshortner?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
